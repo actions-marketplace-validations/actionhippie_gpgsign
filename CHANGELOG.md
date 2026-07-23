@@ -1,5 +1,54 @@
 # Changelog
 
+## [1.8.1](https://github.com/actionhippie/gpgsign/compare/v1.8.0...v1.8.1) (2026-06-22)
+
+### Dependencies
+
+* **patch:** update docker digests ([#59](https://github.com/actionhippie/gpgsign/issues/59)) ([ae57274](https://github.com/actionhippie/gpgsign/commit/ae572742b5cef995560d522e6385b9439e40915a))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([4f5560f](https://github.com/actionhippie/gpgsign/commit/4f5560f96475f2383e47ae7e313f9dd8fc0755ab))
+
+## [1.8.0](https://github.com/actionhippie/gpgsign/compare/v1.7.4...v1.8.0) (2026-06-15)
+
+### Dependencies
+
+* **minor:** update alpine docker tag to v3.24 ([#56](https://github.com/actionhippie/gpgsign/issues/56)) ([67e2b02](https://github.com/actionhippie/gpgsign/commit/67e2b024153f366c0359c629dcf737153eaf2133))
+* **patch:** update docker digests ([5522229](https://github.com/actionhippie/gpgsign/commit/5522229f710009fe95c6a07db999968cf6b0722f))
+* **patch:** update docker digests ([#57](https://github.com/actionhippie/gpgsign/issues/57)) ([15ca0cc](https://github.com/actionhippie/gpgsign/commit/15ca0cc1b88332cf918012b351b2f90ae94ff041))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([c24e542](https://github.com/actionhippie/gpgsign/commit/c24e5421764b706ad155bf26fc64a2d76ff40c1d))
+* **flake:** updated lockfile [skip ci] ([64dc7e5](https://github.com/actionhippie/gpgsign/commit/64dc7e5df8b2bcc1693126f3595af5a8cab5da84))
+* **flake:** updated lockfile [skip ci] ([ee897a3](https://github.com/actionhippie/gpgsign/commit/ee897a328b46cd73059f838da1444c60a852d944))
+* **flake:** updated lockfile [skip ci] ([40dee27](https://github.com/actionhippie/gpgsign/commit/40dee27a03090989080fa56678726bd50d6e498c))
+* **flake:** updated lockfile [skip ci] ([900fade](https://github.com/actionhippie/gpgsign/commit/900fade9aeb3c55536b3548809d9fc959f5d3ad4))
+* **flake:** updated lockfile [skip ci] ([cdfa212](https://github.com/actionhippie/gpgsign/commit/cdfa212c386e7bfca106bb4a6a667ce6f490cc9e))
+* **flake:** updated lockfile [skip ci] ([f09bf0e](https://github.com/actionhippie/gpgsign/commit/f09bf0e86a1537b14b7393bdfaa86de18e66d51b))
+* **flake:** updated lockfile [skip ci] ([a2fb5d1](https://github.com/actionhippie/gpgsign/commit/a2fb5d1644073666bf7f7d96c0478cea0fd1adda))
+
+## [1.7.4](https://github.com/actionhippie/gpgsign/compare/v1.7.3...v1.7.4) (2026-04-20)
+
+### Dependencies
+
+* **patch:** update alpine:3.23 docker digest to 5b10f43 ([#55](https://github.com/actionhippie/gpgsign/issues/55)) ([bb17881](https://github.com/actionhippie/gpgsign/commit/bb1788132bbaadb4122ee390c9b98386b9b12a47))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([07156ab](https://github.com/actionhippie/gpgsign/commit/07156abe2172d2b22ba1058d6afeba97ed23bbd3))
+* **flake:** updated lockfile [skip ci] ([72a4318](https://github.com/actionhippie/gpgsign/commit/72a4318614072e28348be4425419d8786ce8ba77))
+* **flake:** updated lockfile [skip ci] ([a62112d](https://github.com/actionhippie/gpgsign/commit/a62112d6ffb8570c11ae3d0c1c7efcb85117bf89))
+* **flake:** updated lockfile [skip ci] ([329de06](https://github.com/actionhippie/gpgsign/commit/329de06b0dd9c1b702833cf886923206d4cc4290))
+* **flake:** updated lockfile [skip ci] ([b59d2e5](https://github.com/actionhippie/gpgsign/commit/b59d2e57d474ee72c10d7747715fc807090fd4c9))
+* **flake:** updated lockfile [skip ci] ([dc1d715](https://github.com/actionhippie/gpgsign/commit/dc1d7156ffc67e383fbe565fa0ab4dbadab61d16))
+* **flake:** updated lockfile [skip ci] ([04723b8](https://github.com/actionhippie/gpgsign/commit/04723b8a74a8f222dd2d5a6772aa42b53e857eb7))
+* **flake:** updated lockfile [skip ci] ([7eb8fb3](https://github.com/actionhippie/gpgsign/commit/7eb8fb38a3bc1021d5145e168689ecad83ceefed))
+* **flake:** updated lockfile [skip ci] ([a926d9f](https://github.com/actionhippie/gpgsign/commit/a926d9f7cdb9e1eb49ccd73e1e63759375ad663a))
+* **flake:** updated lockfile [skip ci] ([198831b](https://github.com/actionhippie/gpgsign/commit/198831b0e7f9253dfb46d2512272a226be600f3d))
+* **flake:** updated lockfile [skip ci] ([47fe045](https://github.com/actionhippie/gpgsign/commit/47fe045a6e92d343d0bbe855a61e411c916a67a5))
+
 ## [1.7.3](https://github.com/actionhippie/gpgsign/compare/v1.7.2...v1.7.3) (2026-02-02)
 
 ### Dependencies
